@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-<url>
+  <url>
     <loc>https://promptengineer-1.weebly.com/ai-developments/agentic-ai-autonomous-systems-are-rapidly-reshaping-retail-innovation</loc>
     <news:news>
       <news:publication>
@@ -12,9 +12,9 @@
       <news:publication_date>2026-01-13</news:publication_date>
       <news:title>Agentic AI: Autonomous Systems Are Rapidly Reshaping Retail Innovation</news:title>
     </news:news>
-</url>
+  </url>
 
-<url>
+  <url>
     <loc>https://promptengineer-1.weebly.com/ai-developments/agentic-ai-understanding-autonomous-artificial-intelligence</loc>
     <news:news>
       <news:publication>
@@ -24,7 +24,8 @@
       <news:publication_date>2026-01-11</news:publication_date>
       <news:title>Agentic AI: Understanding Autonomous Artificial Intelligence</news:title>
     </news:news>
-</url>
+  </url>
 
 </urlset>
+
 
