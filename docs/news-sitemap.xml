@@ -3,13 +3,37 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
 <url>
+    <loc>https://promptengineer-1.weebly.com/ai-developments/deepsnitch-ai-why-deepsnitch-and-ai-agents-are-driving-automated-intelligence-systems</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Developments</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-07T08:00:00+00:00</news:publication_date>
+      <news:title>DeepSnitch AI: Why DeepSnitch and AI Agents Are Driving Automated Intelligence Systems</news:title>
+    </news:news>
+</url>
+
+<url>
+    <loc>https://promptengineer-1.weebly.com/ai-developments/deepsnitch-ai-how-deepsnitch-and-ai-agents-are-powering-intelligent-detection-platforms</loc>
+    <news:news>
+      <news:publication>
+        <news:name>AI Developments</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-07T08:15:00+00:00</news:publication_date>
+      <news:title>DeepSnitch AI: How DeepSnitch and AI Agents Are Powering Intelligent Detection Platforms</news:title>
+    </news:news>
+</url>
+
+<url>
     <loc>https://promptengineer-1.weebly.com/ai-developments/agentic-ai-limy-raises-10m-to-optimise-brand-visibility-with-agentic-artificial-intelligence</loc>
     <news:news>
       <news:publication>
         <news:name>AI Developments</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-30</news:publication_date>
+      <news:publication_date>2026-01-30T09:00:00+00:00</news:publication_date>
       <news:title>Agentic AI: Limy Raises $10M to Optimise Brand Visibility with Agentic Artificial Intelligence</news:title>
     </news:news>
 </url>
@@ -21,7 +45,7 @@
         <news:name>AI Developments</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-30</news:publication_date>
+      <news:publication_date>2026-01-30T09:20:00+00:00</news:publication_date>
       <news:title>Agentic AI: ServiceNow Expands Automation with Agentic Artificial Intelligence-Powered Agents</news:title>
     </news:news>
 </url>
@@ -33,7 +57,7 @@
         <news:name>AI Developments</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-30</news:publication_date>
+      <news:publication_date>2026-01-30T09:40:00+00:00</news:publication_date>
       <news:title>Agentic AI: Security Warnings Emerge as Moltbot Raises Concerns About Agentic Artificial Intelligence</news:title>
     </news:news>
 </url>
